@@ -50,7 +50,7 @@ module ChinaRegions
     def github_url(filename)
       [
         'https://raw.githubusercontent.com',
-        'encoreshao',
+        'modood',
         'Administrative-divisions-of-China',
         'master',
         'dist',
